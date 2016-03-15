@@ -1,0 +1,11 @@
+./restdoc/{id}/{mobile}
+|===
+|Parameter|Description
+
+|id
+|The user's id
+
+|mobile
+|The user's mobile
+
+|===

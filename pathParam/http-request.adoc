@@ -1,0 +1,6 @@
+[source,http]
+----
+GET /restdoc/1/15021489117 HTTP/1.1
+Host: localhost
+
+----

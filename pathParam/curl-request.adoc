@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/restdoc/1/15021489117' -i
+----
